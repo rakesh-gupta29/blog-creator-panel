@@ -1,0 +1,9 @@
+.cover-image-wrapper   {
+    flex: 0 1 650px;
+    max-height: 350px;
+}
+.cover-image-wrapper  img   {
+    object-fit: cover;
+    min-width: 350px;
+    
+}
